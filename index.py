@@ -21,9 +21,9 @@ import time
 
 mydb = mysql.connector.connect(
     host="localhost",
-    user="root",
-    password="furkan09",
-    database="users"
+    user="username",
+    password="password",
+    database="dbname"
 )
 mycursor = mydb.cursor()
 
