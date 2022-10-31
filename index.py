@@ -13,7 +13,6 @@ import time
 #@ python version: 3.10.2
 #@ database version: 8.0.28 
 #@ database name: Mysql
-#@ license: MIT
 
 
 
