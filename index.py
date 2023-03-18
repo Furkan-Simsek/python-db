@@ -6,9 +6,7 @@ import time
 
 #@ author: Furkan Şimşek
 #@ github: Furkan-Simsek
-#@ linkedin: https://www.linkedin.com/in/simsek-furkan/
 #@ date: 2022-01-31
-#@ version: 0.1A(Alpha)
 #@ description: Database supported user system
 #@ python version: 3.10.2
 #@ database version: 8.0.28 
